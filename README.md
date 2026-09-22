@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Mustafa Emre Gülüm 👋
 
-<!--
-**MustafaEmreGulum/MustafaEmreGulum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer focused on building practical projects, learning modern technologies, and improving through team-based development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Interested in software development and software engineering
+* 🤝 Working on collaborative projects using Git and GitHub
+* 🧠 Exploring artificial intelligence and computer vision
+* 🚀 Building web and mobile application projects
+* 📚 Continuously improving my technical skills
+
+## Currently Working On
+
+### FaceQR
+
+An academic research project focused on face recognition, image processing, and machine learning.
+
+### Viraus
+
+A digital product initiative focused on developing practical software applications.
+
+### Viraus KPSS
+
+A study and content platform designed to support KPSS preparation.
+
+## Currently Learning
+
+* Artificial Intelligence & Machine Learning
+* Computer Vision
+* Modern Web Development
+* Git & GitHub Workflows
+* Software Architecture
+* Team-based Software Development
+
+## Tech & Tools
+
+More coming soon.
+
+---
+
+Building, learning, and improving one project at a time.
