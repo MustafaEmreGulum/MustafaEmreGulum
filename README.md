@@ -96,11 +96,5 @@ A study and content platform designed to support KPSS preparation.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MustafaEmreGulum&show_icons=true&hide_title=true&hide_rank=true&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>Always learning. Always building.</i>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MustafaEmreGulum&theme=github_dark" />
 </p>
