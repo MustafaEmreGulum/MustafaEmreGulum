@@ -114,16 +114,6 @@ A study and content platform designed to support KPSS preparation.
     <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
   </a>
 </p>
----
-
-## 🌱 Currently Learning
-
-* Data Science & Statistical Analysis
-* Machine Learning
-* Artificial Intelligence
-* Computer Vision
-* Software Development
-* Collaborative development with GitHub
 
 ---
 
