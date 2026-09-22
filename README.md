@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mustafa Emre Gülüm 👋</h1>
 
 <p align="center">
-  <b>Software Development • Artificial Intelligence • Computer Vision</b>
+  <b>Data Science • Statistics • Machine Learning • Software Development</b>
 </p>
 
 <p align="center">
@@ -12,11 +12,22 @@
 
 ## 👨‍💻 About Me
 
+* 📊 Interested in **Data Science, Statistics, and Machine Learning**
 * 💻 Interested in **software development and software engineering**
-* 🧠 Exploring **Artificial Intelligence, Machine Learning, and Computer Vision**
+* 🧠 Exploring **Artificial Intelligence and Computer Vision**
 * 🤝 Working on collaborative and research-oriented projects
-* 🚀 Interested in turning ideas into practical software projects
-* 📚 Continuously improving my technical knowledge through hands-on development
+* 📚 Continuously improving my analytical and technical skills through coursework, projects, and research
+
+---
+
+## 🎯 Areas of Interest
+
+* Data Analysis
+* Statistical Modeling
+* Data Science
+* Machine Learning
+* Artificial Intelligence
+* Computer Vision
 
 ---
 
@@ -36,26 +47,32 @@ A study and content platform designed to support KPSS preparation.
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠️ Tech Stack
+
+### Languages & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,qt,pytorch,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,r,qt,pytorch,sklearn&theme=dark" />
 </p>
 
-### Python Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### Data Science & Python Libraries
 
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/statsmodels-4051B5?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
----
-
-## 🔧 Tools & Environments
+### Tools & Environments
 
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -67,11 +84,20 @@ A study and content platform designed to support KPSS preparation.
 
 ## 🌱 Currently Learning
 
-* Artificial Intelligence
+* Data Science & Statistical Analysis
 * Machine Learning
+* Artificial Intelligence
 * Computer Vision
 * Software Development
 * Collaborative development with GitHub
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MustafaEmreGulum&show_icons=true&hide_title=true&hide_rank=true&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
