@@ -120,5 +120,5 @@ A study and content platform designed to support KPSS preparation.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MustafaEmreGulum&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MustafaEmreGulum&theme=github_dark" alt="Mustafa Emre Gülüm's GitHub Activity" />
 </p>
